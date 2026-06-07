@@ -48,6 +48,3 @@ Classify the sentiment of user reviews on Google Play apps and recommend the top
 This project was submitted as part of the Synapse Sprint .
 created by
 -Shreyan Das
--Saikat Ghosh
--Ayush Raha
--Shubham Shaw
